@@ -4,7 +4,7 @@ This is a srouce code for a discord bot using Discord API to communicate with op
 
 The bot will allow you to:
 * Lookup players in any region
-* Search foroptimal builds for youe champion
+* Search for optimal builds for youe champion
 * Counter matchup
 * LoL stats
 
